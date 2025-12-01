@@ -1,2 +1,2 @@
 # Student-MS
-Student Management System is a project developed for my python course at the university.
+Student-MS is a student management system that allows administrators to create, read, update, and delete student records. Built using Python and MySQL
