@@ -1,2 +1,2 @@
-# Student-MS
-Student-MS is a student management system that allows administrators to create, read, update, and delete student records. Built using Python and MySQL
+# StudentMS
+StudentMS is a student management system that allows administrators to create, read, update, and delete student records. Built using Python and MySQL
